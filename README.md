@@ -5,15 +5,16 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQGJFTecHZ4W5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725248094816?e=1750896000&v=beta&t=sxPcdVOdJ0nQcSoHKFSA93zLBsEn_SX2dj-EEd1oF7M" align="center" alt="berkeli header image">
 
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5xYW04djk5N2Fxd2JqcnF5dmhyNXIzeHJ5cnh2bjJuZnZicjRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width = 200px></picture>
-
+<picture> <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5xYW04djk5N2Fxd2JqcnF5dmhyNXIzeHJ5cnh2bjJuZnZicjRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width = 100px></picture>
 
 - :technologist: I am a `Backend Developer` with Java and Spring Boot
 - :student: I am a graduate of the software engineering program at the university.
 - :nerd_face: I like strategy games
 <br>
+
 
 ### 🧰 My Skills
 
